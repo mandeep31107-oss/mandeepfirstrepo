@@ -1,9 +1,11 @@
 a = 67
 b = 5
 c = 8
+d = 23
 print(a + b)
 print(a * b)
 print(a - b) 
 print(a / b)
 print(a * c)
 print(a // c)
+print(a * d)
