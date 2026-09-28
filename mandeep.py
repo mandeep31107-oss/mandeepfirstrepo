@@ -1,6 +1,6 @@
 a = 67
 b = 58
-c = 8
+c = 84
 d = 23
 print(a + b)
 print(a * b)
